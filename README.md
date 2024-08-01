@@ -13,6 +13,7 @@ This project is to explore data related to bike share systems for three major ci
 chicago.csv
 new_york_city.csv
 washington.csv
+bikeshare.py
 
 ### Credits
 Credit goes to Udacity 
